@@ -12,7 +12,7 @@ second = 1
 for i in range(n):
     # This prints the value of first which is 0.
     print(first)
-    # Here we store the value of first (remeber it is 0) inside of temp
+    # Here we store the value of first (remember it is 0) inside of temp
     # so at this point, temp == 0
     temp = first
     # first = second is just like writing first = 1, because second in our code == 1 for now
